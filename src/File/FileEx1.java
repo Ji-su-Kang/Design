@@ -14,5 +14,7 @@ public class FileEx1 {
 		System.out.println("디렉토리 혹은 파일의 이름 : "+ file.getName());
 		System.out.println("파일의 길이 :" + file.length());
 		System.out.println("파일의 최종 수정 날짜" + file.lastModified());
+		// test
+		System.out.println("test");
 	}
 }
